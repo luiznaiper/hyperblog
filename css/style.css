@@ -50,3 +50,12 @@ body
     background: white;
     padding: 1em;
 }
+#footer
+{
+    background-color: lightslategray;
+    padding: 2px;
+    color: white;
+    text-align: center;
+    font-size: 1.4rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
